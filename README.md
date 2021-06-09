@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<link rel="stylesheet" href="path/to/css/splendor.css">
+<link href="splendor.css" rel="stylesheet">
 
 
-<h1 style="color:#41b883" > Kick your boots off and stay a while 🤠 👢 </h1>
+<h1> Kick your boots off and stay a while 🤠 👢 </h1>
 
 <p align="center">
 <img width='70%' src="https://media.giphy.com/media/oBuyYqpwrJsKGDXG2R/giphy.gif" alt="a cowboy screams at poor react component composition"/>
