@@ -86,3 +86,5 @@ Lets talk coding or books, hit me up on twitter or linkedIn!
 
 
 # Some of my Bounties. 🎖
+
+check out my pinned projects below ⬇️
