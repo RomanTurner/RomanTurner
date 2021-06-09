@@ -40,30 +40,6 @@ You must be coming in off the long and dusty trail, so many potential engineers,
 ![Roman Turner's github stats](https://github-readme-stats.vercel.app/api?username=RomanTurner&show_icons=true&hide_border=true&theme=vue-dark) 
 </div>
 
-# Some of my Bounties. 🎖
-
-## Flavorites aka The Pine Meal Planner
-
-> ‘The Pine Meal Planner’ Web application for assigning meal plans as a feature for an existing recipe website. 
-> This project was the culmination of my Flatiron education. It was the first time I leveraged the Redux Toolkit and fell in love with it. 
-> Also where I really came into my own with React Router. 
-
-JAVASCRIPT| REACT | MATERIAL-UI | REDUX-TOOLKIT | REACT ROUTER | CSS | JSS 
-
-- Composed and authorized private routing using React Router v5.2.
-- Leveraged Redux toolkit state management, DUCK directory design complaint.
-- Created custom Material components and theme for a welcoming UI. 
-- Built with all  functional components, with built-in and custom hooks. 
-- Fashioned a  friendly UX with  drag and drop functionality.
-
-RUBY | NIKOGIRI |KIMURAI | RUBY ON RAILS | RACK | AMS | JWT 
-- Constructed a custom Ruby scraper with Nikogiri and Kimurai, seeded recipes gathered from the Spruce Eats.  
-- Managed PostGreSQL database  with ActiveRecord ORM.
-- Secured user data with encryption through Bcrypt, and  authorization with JWT.
-
----
-
-
 # A Campfire Yarn. 🏕
 
 Besides my personal proclivity for using the greeting 'Howdy', let me tell you a little bit more about myself: 
@@ -105,3 +81,6 @@ What it is like working in Pike Place Market as an executive chef? BUSY. What it
 - 'Gideon the Ninth' by Tamsyn Muir
 
 Lets talk coding or books, hit me up on twitter or linkedIn!
+
+
+# Some of my Bounties. 🎖
