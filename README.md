@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<link href="splendor.css" rel="stylesheet">
+<link href="./styles.css" rel="stylesheet">
 
 
 <h1> Kick your boots off and stay a while 🤠 👢 </h1>
