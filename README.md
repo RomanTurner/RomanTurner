@@ -1,18 +1,3 @@
-
-<!--
-**RomanTurner/RomanTurner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1> Kick your boots off and stay a while 🤠 👢 </h1>
 
 <p align="center">
@@ -25,6 +10,7 @@ You must be coming in off the long and dusty trail, so many potential engineers,
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;
@@ -35,7 +21,47 @@ You must be coming in off the long and dusty trail, so many potential engineers,
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />&nbsp;&nbsp;
 </p>
+
+<div align='center'>  
+![Roman Turner's github stats](https://github-readme-stats.vercel.app/api?username=RomanTurner&show_icons=true&hide_border=true&theme=vue-dark) 
+</div>
+
+# Some of my Bounties. 🎖
+
+## Flavorites aka The Pine Meal Planner
+
+> ‘The Pine Meal Planner’ Web application for assigning meal plans as a feature for an existing recipe website. 
+> This project was the culmination of my Flatiron education. It was the first time I leveraged the Redux Toolkit and fell in love with it. 
+> Also where I really came into my own with React Router. 
+
+JAVASCRIPT| REACT | MATERIAL-UI | REDUX-TOOLKIT | REACT ROUTER | CSS | JSS 
+
+- Composed and authorized private routing using React Router v5.2.
+- Leveraged Redux toolkit state management, DUCK directory design complaint.
+- Created custom Material components and theme for a welcoming UI. 
+- Built with all  functional components, with built-in and custom hooks. 
+- Fashioned a  friendly UX with  drag and drop functionality.
+
+RUBY | NIKOGIRI |KIMURAI | RUBY ON RAILS | RACK | AMS | JWT 
+- Constructed a custom Ruby scraper with Nikogiri and Kimurai, seeded recipes gathered from the Spruce Eats.  
+- Managed PostGreSQL database  with ActiveRecord ORM.
+- Secured user data with encryption through Bcrypt, and  authorization with JWT.
+
+---
 
 
 # A Campfire Yarn. 🏕
@@ -79,39 +105,3 @@ What it is like working in Pike Place Market as an executive chef? BUSY. What it
 - 'Gideon the Ninth' by Tamsyn Muir
 
 Lets talk coding or books, hit me up on twitter or linkedIn!
-
-<div align='center'>
-  
-![Roman Turner's github stats](https://github-readme-stats.vercel.app/api?username=RomanTurner&show_icons=true&hide_border=true&theme=vue-dark) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanTurner&layout=compact&count_private=true&theme=vue-dark&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-# Some of my Bounties.
-
-## Fresh out of oven :fire: Android Libraries - Samples 
-
-
-
-## TinderLike Cards ♀️♂️
-> Stylish animations and designs like Tinder.
-
-[![Kotlin Version](https://img.shields.io/badge/language-kotlin%20100%25-orange.svg)](https://kotlinlang.org/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-0.1-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/TinderLikeCardStack)
-
-
-This project arose from the idea of turning a small part of freelance project I did a long time ago into a library. With TinderLike Cards library, you can easily have a tinder-style design. Since the project was written in the past, it may have problems. I will continue to improve the library with your help. Please be sure to report any issues you find. I took the structure of listview as an example for myself. You can easily include it in your project with the use of a simple adapter. :facepunch:
-
----
-
-## Blurr :foggy: Easy Blur and Tools Library
-> Simple and quick solution for blurred bitmaps.
-
-[![Kotlin Version](https://img.shields.io/badge/language-kotlin%20100%25-orange.svg)](https://kotlinlang.org/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-0.1-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/BlurryAndroid)
-
-
-Async or Sync, you can quickly blur your images. The library supports Bitmap, Drawable and CustomViews. You have the opportunity to use the necessary libraries separately. If you encounter an error or problem, please open a issue. It will be fixed as soon as possible. ⚡
-
----
