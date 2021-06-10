@@ -4,7 +4,7 @@
 <img width='70%' src="https://media.giphy.com/media/oBuyYqpwrJsKGDXG2R/giphy.gif" alt="a cowboy screams at poor react component composition"/>
 </p>
 
-You must be coming in off the long and dusty trail, so many potential engineers, so little time. But you've come my way, you must have heard talk of a developer that has a taste for React and Ruby on Rails, and gets weak in the knees talking about the Redux Toolkit. Well pardner, you came to the right place. So sit back and relax and let the cool water of my github wash the trail off and quench your thirst for your next software engineer. 
+You must be coming in off the long and dusty trail, so many potential engineers, so little time. But you've come my way, you must have heard talk of a developer that has a taste for React and Ruby on Rails, a developer that gets weak in the knees talking about the Redux Toolkit. Well pardner, you came to the right place. So sit back and relax and let the cool water of my github wash the trail off and quench your thirst for your next software engineer. 
 
 # My Tools for Barter 🪚
 
